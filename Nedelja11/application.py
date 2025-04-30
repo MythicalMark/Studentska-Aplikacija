@@ -1,6 +1,6 @@
 import customtkinter as ctk  
 from tkinter import ttk, messagebox  
-from db import Database 
+from Nedelja11.db import Database 
 from datetime import datetime 
 
 class StudentGradeApp(ctk.CTk):  
